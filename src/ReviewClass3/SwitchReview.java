@@ -17,7 +17,7 @@ public class SwitchReview {
                 System.out.println("Winner is Germany");
                 break;
             default:
-                System.out.println("Winner is unknownc");
+                System.out.println("Winner is unknown");
         }
     }
 
